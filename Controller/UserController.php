@@ -1,5 +1,5 @@
 <?php
-
+## HOLI MI REY HERMOSO COMO ESTA ESE QLO
 require_once 'Model/UserModel.php';
 class UserController extends Controller
 {
