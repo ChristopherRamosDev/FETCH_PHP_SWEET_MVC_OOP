@@ -1,0 +1,1 @@
+<script src="View/js/app.js"></script>
