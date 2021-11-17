@@ -4,8 +4,8 @@
 class UserModel
 {
     protected int $id;
-    public   $firstName;
-    public   $lastName;
+    protected   $firstName;
+    protected   $lastName;
     protected int $age;
     protected string $email;
     protected string $phone;
